@@ -28,7 +28,4 @@
 # num2 = 25
 # print('the sum of two number is ' + str(num1 + num2) )
 
-fruits = ([orange,banana,mango])
-for i in range(3):
-    print(fruits str(i))
-    
+
