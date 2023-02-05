@@ -1,3 +1,5 @@
+#You are going to write a program that will mark a spot with an X.
+
 # 🚨 Don't change the code below 👇
 row1 = ["⬜️","️⬜️","️⬜️"]
 row2 = ["⬜️","⬜️","️⬜️"]
