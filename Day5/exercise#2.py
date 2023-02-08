@@ -7,4 +7,10 @@ print(student_scores)
 
 #Write your code below this row 👇
 
-print(max(student_scores))
+highest_score = 0
+for score in student_scores:
+  score = int(score) # convert string to int
+  if score > highest_score:
+    highest_score = score
+print(f"the highest score is: {highest_score}")
+
