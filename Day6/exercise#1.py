@@ -11,4 +11,5 @@ def my_function():
     print("bye faiz ")
 
 my_function()  # after wrinting function we have to write it again in last 
+               # it is called calling the function
 
