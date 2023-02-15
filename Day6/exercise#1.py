@@ -13,3 +13,9 @@ def my_function():
 my_function()  # after wrinting function we have to write it again in last 
                # it is called calling the function
 
+# while loop 
+# 
+# while something is true:
+#   do this
+#   do that
+#   then do this
